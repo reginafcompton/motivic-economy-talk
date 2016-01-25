@@ -1,0 +1,30 @@
+.media {
+  width: 900px;
+  margin: auto;
+}
+
+.media .img {
+  float: left;
+  margin: 1em;
+}
+
+.media .text {
+  float: left;
+  margin: 1em;
+  width: 400px;
+  font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
+  line-height: 1.5;
+}
+
+.content {
+  width: 900px;
+  margin: auto;
+  clear: both;
+}
+
+.content .text {
+  margin: 1em;
+  font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
+  line-height: 1.5;
+}
+
