@@ -1,0 +1,21 @@
+body { color: white; }
+
+/*melody and rhythm*/
+.dance-a { background-color: #380202; }
+.dance-b { background-color: #680000; }
+.drunkard { background-color: #16245E; }
+
+/*dynamics*/
+.forte { font-size: 2em; }
+.piano { font-size: 1em; }
+
+/*texture*/
+.solo { font-family: 'Allura', cursive; }
+.tutti { font-family: 'Raleway', sans-serif; }
+
+/*duration in measures*/
+.one { height: 50px; }
+.three { height: 60px; }
+.four { height: 70px; }
+.eight { height: 110px; }
+.sixteen { height: 190px; }
